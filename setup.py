@@ -11,9 +11,7 @@ setup(
     author_email='tivanai2020@gmail.com',
     url='https://github.com/tivanai2020/tivan',  # Update with your actual URL
     classifiers=[
-        'Programming Language :: Python :: 3',
-        'License :: ',
-        'Operating System :: OS Independent',
+    
     ],
     python_requires='>=3.6',
 )
